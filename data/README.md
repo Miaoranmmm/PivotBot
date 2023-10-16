@@ -5,7 +5,7 @@ We construct this dataset using the proposed framework to automatically enrich T
 <p align="left">
   <img alt="alt text" src="../doc/example.png">
   <br>
-    Illustration of three simulation settings. Given a TOD between a user (U) and a system agent (A), we consider three settings to synthesize ODD(s) to the TOD.
+    Figure 1: Illustration of three simulation settings. Given a TOD between a user (U) and a system agent (A), we consider three settings to synthesize ODD(s) to the TOD.
 </p>
 
 
