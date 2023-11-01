@@ -1,4 +1,4 @@
-# PivotBot
+# PivotBot: Enhancing Task Bot Engagement with Synthesized Open-Domain Dialog
 
 This repository is for the paper [Enhancing Task Bot Engagement with Synthesized Open-Domain Dialog](https://aclanthology.org/2023.sigdial-1.46/)
 
